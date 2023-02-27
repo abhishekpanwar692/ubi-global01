@@ -1,0 +1,375 @@
+@media (max-width:1024px) {
+    .banner-content{
+        width: auto;
+        padding: 76px 85px;
+    }
+    .Banner-main h1{
+        font-size: 26px;
+        line-height: 22px;
+       
+        
+    }
+    .Banner-main h2{
+        font-size:24px ;
+        line-height: 50px;
+    }
+    .Banner-main p{
+        font-size: 16px;
+        margin-bottom: 15px;
+    }
+    .Banner-main i{
+        font-size: 13px;
+    }
+    .Banner-main button{
+        font-size: 10px;
+    }
+    .mouse{
+        justify-content: center;
+        padding-left: 80px;
+    }
+    .Banner-main img{
+        height: 55px;
+    }
+    .notice1{
+        width: 30%;
+    }
+    .portfolios-img img{
+        padding: 0;
+    }
+    .notice1 p {
+        font-size: 14px;
+    }
+    .notice1 h1{
+        font-size: 16px;
+    }
+    .we-are{
+        margin-top: 65px;
+    }
+    .measure-contant h1 {
+        width: 70%;
+    }
+    .measure-contant p {
+        width: 70%;
+    }
+    .measure-img img{
+        padding-left: 0;
+    }
+    .measure-contant{
+        align-items: center;
+    }
+    .measure-img {
+        width: 62%;
+    }
+    .offering h1{
+        font-size: 24px;
+    }
+    .newsletter h1{
+        font-size: 24px;
+    }
+    .newsletter{
+        margin-bottom: 44px;
+    }
+    #open-menu {
+        display: none;
+    }
+
+
+}
+@media (max-width:900px){
+    .main{
+        margin: 0px 50px;
+    }
+    .banner-content {
+       
+        padding: 25px 56px;}
+
+.Nav-Bar{
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+  
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    background: #1da989;
+}#open-menu{
+    display: block;
+}
+
+.Nav-Bar #close-menu{
+    display: block;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 25px;
+}
+.Nav-Bar a{
+    padding: 10px 14px;
+    font-size: 28px;
+
+}
+.Banner-main h1{
+    font-size: 24px;
+}
+.offering ul .h1{
+    font-size: 24px;
+}
+.main-footer ul li {
+    margin-top: 5px;
+}
+.measure-contant h1{
+    width: 77%;
+}
+.measure-contant p{
+    width: 77%;
+}
+.measure-img img{
+    padding-right: 108px;
+}
+.newsletter h1 {
+    font-size: 24px;
+}
+ul h1{
+    font-size: 24px;
+}
+.offering ul li{
+    font-size: 18px;
+}
+.down .fa{
+    color:#e0e0e0 ;
+
+}
+ul h1 {
+    font-size: 16px;
+}
+.offering ul li {
+
+    font-size: 14px;
+}
+.newsletter h1 {
+    font-size: 16px;
+}
+.email{
+    padding: 0;
+}
+.btn{
+    border: 2px solid black;
+    padding: 7px 20px;
+    border-radius: 10px;
+    position: relative;
+    right: 18px;
+    z-index: -1;
+    background-color:#1da989; 
+    color: #fff;
+
+
+}
+.newsletter {
+    margin-bottom: 39px;
+    display: none;
+}
+.fa-bars{
+    display: block;
+}
+}
+    
+    @media (max-width:768px){
+        .Nav-Bar{
+            font-size: 13px;
+            display: none;
+        }
+        .Banner-main h1{
+            font-size: 22px;
+        }
+   
+        }
+        .Banner-main p{
+            font-size: 16px;
+
+        }
+       
+          .Banner-main button{
+            margin-top: 0;
+          }
+          .mouse{
+            margin-top: 0;
+          }
+          
+#open-menu {
+    right: 60px;
+    font-size: 30px;
+    
+    position: absolute;
+    top: 30px;
+}
+.we-are {
+     margin-top: 20px;
+}
+.notice1{margin-top:10px ;
+}
+.how-we-help {
+    margin-top: 30px;
+}
+.how-contant{
+    margin-left: 30px;
+}
+.news1 img {
+    width: 180px;
+}
+
+
+.img-section img {
+    margin: 30px 0px;
+}
+.measure-img img{
+    padding-right: 0;
+}
+
+.how-contant h2{
+    line-height: 20px;
+    margin: 10px 0px;
+}
+
+@media (max-width:425px){
+    .Banner-main {
+        background-size: inherit;
+       
+    }
+    .Banner-main h1{
+        font-size: 11px;
+    }
+    .main {
+        margin: 0;
+    }
+    .banner-content {
+
+       
+        padding: 10px 15px;}
+        .Banner-main p {
+            font-size: 12px;
+        }
+        .Banner-main h2{
+            font-size: 14px;
+            line-height: 25px;
+        }
+        .Banner-main button {
+            margin: 12px;
+        }
+        .news-row{
+            flex-direction: column;
+        }
+        .news1{
+            width: 237px;
+            margin-top: 20px;
+        }
+        .padd65{
+            margin-top: 40px;
+        }
+        .portfolios-img {
+            margin-top: 30px;}
+            .notice {
+                flex-direction: column;
+            }
+            .notice1 {
+                width: 100%;
+            }
+     .how-we-help{
+        flex-direction: column;
+     }
+     .how-img{
+        width: auto;
+     }
+     .how-img img {
+        width: 232px;
+}
+.how-contant{
+    width: auto;
+    margin-bottom: 30px;
+}
+.measure-of-success {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.measure-contant h1 {
+    width: auto;
+    font-size: 24px;
+}
+.measure-contant h1:before{
+    width: 200px;
+    margin-left: 23px;
+    margin-top: 30px;
+}
+.measure-contant p {
+    width:auto;
+    text-align: center
+}
+.measure-contant{
+    margin-top: 20px;
+    
+}
+.measure-img{
+    width:auto;
+}
+.measure-img img{
+    width: 232px;
+}
+.news-row{
+    margin-top: 10px;
+}
+.we-are h1:before {
+    margin-left: 44px;
+    margin-top: 31px;
+}
+.we-are h1{
+    font-size:24px;
+}
+.main-footer{
+    flex-direction: column;
+}
+ul h1{
+    padding-left: 25px;
+    margin-top: 20px;
+}
+.newsletter{
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 0;
+}
+.Massage{
+    width: 77%;
+    margin: 20px 20px;
+}
+#Form .input{
+    padding: 3px 13px;
+    font-size: 15px;
+    margin: 8px 0px;
+}
+#Form button{
+    margin: 0px 0px;
+}
+#Form .input{
+    margin: 10px 20px;
+}
+.news-heading::before{
+    width: 120px;
+    margin-left: -60px;
+}
+.portfolios-content h1{
+    font-size: 26px;
+}
+.portfolios h1::before{
+    margin-top: 33px;
+    margin-left: 44px;
+}
+.news-heading h1{
+    font-size: 26px;
+}
+.news-heading::before{
+    margin-top: 30px;
+}
+}
+
+    
